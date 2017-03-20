@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8a5e7baed9e469647ac5b65f957931bf
+timeCreated: 1489990892
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HOT-Ohige115 Std
+  fontNames:
+  - HOT-Ohige115 Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a885d8cef3502946b8f282022e6decc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
